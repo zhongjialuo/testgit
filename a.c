@@ -3,6 +3,7 @@
 
 int b = 0;
 int c = 0;
+char x;
 int zh = 1;
 int f = 0;
 

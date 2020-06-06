@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define A 5
 
+int d;
 int b = 0;
 int c = 0;
 char x;

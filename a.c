@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define A 5
-
+//add by zjl
 int d;
 int b = 0;
 int c = 0;

@@ -9,6 +9,7 @@ int zh = 1;
 int f = 0;
 int aa;
 
+
 int main()
 {
 	int a = 1;

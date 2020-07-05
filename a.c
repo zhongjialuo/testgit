@@ -1,5 +1,5 @@
 
-//#include <stdio.h>
+//###include <stdio.h>
 #define A 5
 //add by zjl
 int d;
